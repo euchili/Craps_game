@@ -5,7 +5,7 @@ def rolling_a_dice():
     dice1 = random.randint(1, 6)
     dice2 = random.randint(1, 6)
     print("First number is ", dice1)
-    print("Second number is", dice2)
+    print("Second number is ", dice2)
     dice3 = dice1+dice2
     return dice3
 
